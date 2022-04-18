@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SkylerBair
 - 👀 I’m interested in... Exploring the outdoors! 
-- 🌱 I’m currently learning ... GoLang 
-- 💞️ I’m looking to collaborate on ... anyproject with my boi dylan 
+- 🌱 I’m currently learning ... GoLang, HTML, CSS, Java Scrip.
+- 💞️ I’m looking to collaborate on ... anyproject to help expand my coding knowledge. 
 - 📫 How to reach me ... Skylertbair@gmail.com
 
 <!---
